@@ -1,3 +1,3 @@
 # mencoba-github
 belajar mencoba
-menambahkan repository
+menambah file
